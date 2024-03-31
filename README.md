@@ -19,7 +19,7 @@ GitHub Link: https://github.com/dtran44/E-commerce-Back-End
 
 Video Link: 
 
-Screenshot: ![alt text] (https://github.com/dtran44/E-commerce-Back-End/blob/main/assets/ecomm%20screenshot.jpg)
+Screenshot: ![alt text] https://github.com/dtran44/E-commerce-Back-End/blob/main/assets/ecomm%20screenshot.jpg
 
 
 ## License

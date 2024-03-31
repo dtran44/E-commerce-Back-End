@@ -17,7 +17,7 @@ N/A
 
 GitHub Link: https://github.com/dtran44/E-commerce-Back-End
 
-Video Link: 
+Video Link: https://drive.google.com/file/d/1b2xFFxnHJetp0UsrNXjZamBStVYMyuod/view
 
 Screenshot: ![alt text] https://github.com/dtran44/E-commerce-Back-End/blob/main/assets/ecomm%20screenshot.jpg
 
